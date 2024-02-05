@@ -1,1 +1,1 @@
-console.log('Config Version3 with GitHub')
+console.log('Config Version 4 update sync')
